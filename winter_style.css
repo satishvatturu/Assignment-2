@@ -97,6 +97,21 @@ header{
     cursor: pointer;
 }
 
+/* .header-2-2 .project a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 15px;
+    background-color: #D1D9E1;
+    border: 1px solid #6D777F;
+    border-radius: 17px;
+    font-size: 13px;
+    font-family: inter;
+    cursor: pointer;
+    text-decoration: none;
+    color: #09141C;
+} */
+
 .header-2-2 .filters {
     display: flex;
     justify-content: space-around;
